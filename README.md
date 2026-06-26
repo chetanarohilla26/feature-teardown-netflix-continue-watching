@@ -426,6 +426,24 @@ Priority: High
 
 ---
 
+## Key Learnings
+
+This analysis reinforced three important product principles.
+
+### 1. Every feature exists to solve a user problem.
+
+Continue Watching is fundamentally a friction-reduction mechanism.
+
+### 2. Product decisions involve tradeoffs.
+
+Improving retention often comes at the cost of discovery.
+
+### 3. User feedback reveals hidden problems.
+
+The largest issue with Continue Watching is not resumption but content clutter.
+
+---
+
 ## Key Takeaways
 
 1. Continue Watching is fundamentally a retention feature.
