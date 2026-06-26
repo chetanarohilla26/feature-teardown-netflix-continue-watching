@@ -8,3 +8,19 @@ Netflix needed a solution that reduced rediscovery effort and enabled users to c
 
 ---
 
+## Product Hypothesis
+
+Users derive value from Continue Watching when it contains active viewing intent.
+
+As stale and completed content accumulates, signal quality decreases and homepage relevance deteriorates.
+
+Hypothesis:
+
+If Netflix automatically archives completed and inactive content,
+
+then users will experience a cleaner homepage,
+
+which will increase Continue Watching CTR and reduce browsing friction.
+
+---
+
