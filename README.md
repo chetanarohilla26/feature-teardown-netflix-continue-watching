@@ -325,7 +325,20 @@ Even small improvements in resume behavior could translate into meaningful incre
 
 ## Experiment Design
 
+The complete experiment design document, including the product hypothesis, north star metric selection, impact estimation, and A/B testing framework, can be found here:
 
+Link
+
+# Contents
+
+Product Hypothesis
+Problem Statement
+Proposed Solution
+North Star Metric Justification
+Impact Estimation
+A/B Test Design
+Success Metrics
+Risks & Limitations
 
 ---
 
