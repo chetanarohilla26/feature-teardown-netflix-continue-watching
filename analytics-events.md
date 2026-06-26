@@ -50,3 +50,16 @@ Triggered when content is automatically archived.
 4. archived_content_restored
 
 Triggered when archived content is restored.
+
+---
+
+## Dashboard Metrics
+
+Product Team Dashboard
+
+- Continue Watching CTR
+- Resume Completion Rate
+- Archive Rate
+- Restore Rate
+- Session Starts
+- Viewing Hours Per User
