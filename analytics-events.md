@@ -30,3 +30,23 @@ Episode Completed
 ↓
 
 Return Visit
+
+---
+
+## Event Definitions
+
+1. continue_watching_impression
+
+Triggered when the row becomes visible.
+
+2. continue_watching_click
+
+Triggered when a user resumes content.
+
+3. archive_auto_triggered
+
+Triggered when content is automatically archived.
+
+4. archived_content_restored
+
+Triggered when archived content is restored.
