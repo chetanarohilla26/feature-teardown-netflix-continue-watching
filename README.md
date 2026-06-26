@@ -258,7 +258,7 @@ As a result:
 
 ## Proposed Improvement
 
-# Smart Auto-Clean Continue Watching
+### Smart Auto-Clean Continue Watching
 
 ### Concept
 
@@ -327,35 +327,37 @@ Even small improvements in resume behavior could translate into meaningful incre
 
 The complete experiment design document, including the product hypothesis, north star metric selection, impact estimation, and A/B testing framework, can be found here:
 
-Link
+Detailed version available in: [experiment-design.md](./experiment-design.md)
 
-# Contents
+### Contents
 
-Product Hypothesis
-Problem Statement
-Proposed Solution
-North Star Metric Justification
-Impact Estimation
-A/B Test Design
-Success Metrics
-Risks & Limitations
+- Product Hypothesis
+- Problem Statement
+- Proposed Solution
+- North Star Metric Justification
+- Impact Estimation
+- A/B Test Design
+- Success Metrics
+- Risks & Limitations
 
 ---
 
 ## Analytics Instrumentation
 
-To evaluate feature performance, I would track the following events.
-
-| Event | Description |
-|---------|---------|
-| continue_watching_impression | User sees row |
-| continue_watching_click | User resumes content |
-| archive_auto_triggered | Content archived automatically |
-| archived_content_restored | User restores archived content |
-| session_started | Viewing session begins |
-| episode_completed | Episode completed |
+The complete analytics implementation and event tracking plan can be found here:
 
 For the complete event taxonomy, properties, funnel definitions, and implementation details, see [analytics-events.md](./analytics-events.md).
+
+### Contents
+
+- Tracking Strategy
+- Event Taxonomy
+- Event Definitions
+- Event Properties
+- User Properties
+- Funnel Tracking
+- Dashboard Recommendations
+- KPI Measurement Framework
 
 ---
 
