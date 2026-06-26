@@ -342,7 +342,7 @@ To evaluate feature performance, I would track the following events.
 | session_started | Viewing session begins |
 | episode_completed | Episode completed |
 
-Detailed version available in [tradeoff-matrix.md](tradeoff-matrix.md)
+Detailed version available in [analytics-events.md](analytics-events.md)
 
 ---
 
