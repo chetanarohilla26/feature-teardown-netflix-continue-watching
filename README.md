@@ -45,6 +45,32 @@ Netflix needed a solution that reduced rediscovery effort and enabled users to c
 
 ---
 
+## User Research Signals
+
+To understand whether the problem is meaningful, I reviewed public discussions across Reddit, product forums, and user feedback threads.
+
+### Signal 1: Homepage Clutter
+
+Users frequently report frustration when completed shows remain in Continue Watching long after viewing has ended.
+
+### Signal 2: Accidental Content Tracking
+
+Users who preview a show for a few minutes often see it permanently appear in Continue Watching.
+
+### Signal 3: Limited Content Management
+
+Many users request easier ways to remove multiple titles or automatically archive inactive content.
+
+### Key Insight
+
+The dominant user frustration is not resuming content.
+
+It is managing stale content.
+
+This suggests Netflix has optimized heavily for retention while underinvesting in content lifecycle management.
+
+---
+
 ## Jobs To Be Done (JTBD)
 
 **When I return to Netflix after an interruption,**
