@@ -71,6 +71,42 @@ This suggests Netflix has optimized heavily for retention while underinvesting i
 
 ---
 
+## Product Hypothesis
+
+Users derive value from Continue Watching when it contains active viewing intent.
+
+As stale and completed content accumulates, signal quality decreases and homepage relevance deteriorates.
+
+Hypothesis:
+
+If Netflix automatically archives completed and inactive content,
+
+then users will experience a cleaner homepage,
+
+which will increase Continue Watching CTR and reduce browsing friction.
+
+---
+
+## Impact Estimation
+
+The following estimates are directional and intended to evaluate opportunity size.
+
+### Assumptions
+
+- 100M monthly active users interact with Continue Watching
+- 10% experience clutter-related friction
+- Smart Auto-Clean improves Continue Watching CTR by 2%
+
+### Estimated Impact
+
+100M × 10% × 2%
+
+= 200,000 additional monthly resume actions
+
+Even small improvements in resume behavior could translate into meaningful increases in viewing hours and retention at Netflix scale.
+
+---
+
 ## Jobs To Be Done (JTBD)
 
 **When I return to Netflix after an interruption,**
