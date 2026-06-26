@@ -335,15 +335,55 @@ Even small improvements in resume behavior could translate into meaningful incre
 
 ---
 
-## Risks & Failures Modes
+## Risks
 
+### Risk 1
 
+Users may want completed content to remain visible.
+
+Mitigation:
+
+Create Recently Archived section.
+
+---
+
+### Risk 2
+
+Users may perceive automatic archiving as content removal.
+
+Mitigation:
+
+Provide restore functionality.
+
+---
+
+### Risk 3
+
+Archiving may reduce visibility of unfinished shows.
+
+Mitigation:
+
+Only archive after inactivity thresholds are met.
 
 ---
 
 ## Future Iterations
 
+### V1
 
+Smart Auto-Clean
+
+### V2
+
+User-configurable archiving preferences
+
+### V3
+
+Machine-learning based viewing intent prediction
+
+### V4
+
+Personalized Continue Watching ranking
 
 ---
 
